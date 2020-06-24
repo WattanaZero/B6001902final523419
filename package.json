@@ -1,0 +1,23 @@
+{
+  "name": "B6001902final523419",
+  "version": "1.0.0",
+  "description": "**Wattana Chaiyakun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WattanaZero/B6001902final523419.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WattanaZero/B6001902final523419/issues"
+  },
+  "homepage": "https://github.com/WattanaZero/B6001902final523419#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
