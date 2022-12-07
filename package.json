@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/WattanaZero/B6001902final523419#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
